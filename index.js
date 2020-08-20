@@ -12,7 +12,7 @@ function yourAnimal(name){
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   
-  var animal = return(name);
+  var animal = console.log(name);
   return animal
 }
 
