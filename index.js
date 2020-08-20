@@ -13,7 +13,7 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   
   var animal = animal;
-  return sameanimal;
+  return animal;
 }
 
 function add2(n) {
