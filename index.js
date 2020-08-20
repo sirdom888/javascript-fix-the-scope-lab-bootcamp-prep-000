@@ -12,8 +12,8 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   
-  var animal = function myAnimal()
-  return animal;
+  var animal = function myAnimal(){
+  return animal;}
 }
 
 function add2(n) {
